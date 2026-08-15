@@ -1,2 +1,0 @@
-
- #genra bot
