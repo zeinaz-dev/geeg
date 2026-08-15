@@ -1,0 +1,4 @@
+.env
+genra.db
+__pycache__/
+*.pyc
